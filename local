@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:0, group-title="INDOTV",THE INDONESIA CHANNEL
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+#EXTINF:0, group-title="INDOTV",ANTV
+http://210.210.155.35/qwr9ew/s/s07/01.m3u8
+#EXTINF:0, group-title="INDOTV",DAAI TV
+http://e1-hk-1.nim.mivo.tv/daaitv/daaitv2_all/skrz1j8exe/daaitv2_576p/chunks.m3u8
+#EXTINF:0, group-title="INDOTV",GLOBAL TV
+http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, group-title="INDOTV",INDOSIAR
+http://id1.indostreamingtv.com/live/tv11/index.m3u8
+#EXTINF:0, group-title="INDOTV",KOMPAS TV
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com/oblack
+#EXTINF:0, group-title="INDOTV",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:0, group-title="INDOTV",MNCTV
+http://id2.indostreamingtv.com/live/event/index.m3u8
+#EXTINF:0, group-title="INDOTV",RCTI
+http://id8.indostreamingtv.com/live/tv6/index.m3u8
+#EXTINF:0, group-title="INDOTV",RTV
+http://210.210.155.35/qwr9ew/s/s12/01.m3u8
+#EXTINF:0, group-title="INDOTV",SCTV
+http://id7.indostreamingtv.com/live/tv2/index.m3u8
+#EXTINF:0, group-title="INDOTV",TRANS TV
+http://210.210.155.35/qwr9ew/s/s05/01.m3u8
+#EXTINF:0, group-title="INDOTV",TRANS7
+http://210.210.155.35/qwr9ew/s/s06/01.m3u8
