@@ -26,3 +26,51 @@ http://id7.indostreamingtv.com/live/tv2/index.m3u8
 http://210.210.155.35/qwr9ew/s/s05/01.m3u8
 #EXTINF:0, group-title="INDOTV",TRANS7
 http://210.210.155.35/qwr9ew/s/s06/01.m3u8
+#EXTINF:0, group-title="ENTERTAINMENT",STAR WORLD HD
+http://2111.space:25461/admin_182223/wGBfWji1/3613
+#EXTINF:0, group-title="MOVIE",ZEE CAFE HD
+http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="ENTERTAINMENT",&PICTURES HD
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="ENTERTAINMENT",&TV HD
+http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="ENTERTAINMENT",HD MEDIA
+http://62.76.26.81:8081/hdmedia/hdmedia_pay/playlist.m3u8
+#EXTINF:0, group-title="ENTERTAINMENT",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0, group-title="ENTERTAINMENT",CELESTIAL MOVIES
+http://rr2.dens.tv/s/s33/index2.m3u8
+#EXTINF:0, group-title="ENTERTAINMENT",Thrill TV
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+#EXTINF:0, group-title="ENTERTAINMENT",KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:0, group-title="ENTERTAINMENT",SYFY
+http://23.237.22.82:8086/udp/127.0.0.1:56063
+#EXTINF:0, group-title="ENTERTAINMENT",FOX HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3522.ts
+#EXTINF:0, group-title="ENTERTAINMENT",FOX LIFE
+http://cdn2.bear-tv.com/freetv/TOT_foxlife/chunks.m3u8
+#EXTINF:0, group-title="ENTERTAINMENT",AXN
+http://sg.ganteng.stream:8888/Jason/Jason123/9
+#EXTINF:0, group-title="ENTERTAINMENT",FX
+
+http://cdn2.bear-tv.com/freetv/TOT_FX_HD/playlist.m3u8
+#EXTINF:0, group-title="ENTERTAINMENT",ZEE TV HD
+http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="ENTERTAINMENT",ZING
+http://z5ams.akamaized.net/zing/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="ENTERTAINMENT",ZEE MAGIC
+http://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="ENTERTAINMENT",CCTV4
+http://210.210.155.35/qwr9ew/s/s19/01.m3u8
+
+#EXTINF:0, group-title="KOREA",SBS IN
+http://210.210.155.35/uq2663/h/h28/index1.m3u8
+#EXTINF:0, group-title="KOREA",K-Drama
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
+#EXTINF:0, group-title="KOREA",K+
+http://rr.dens.tv/h/h08/index2.m3u8
+#EXTINF:0, group-title="KOREA",KBS WORLD
+http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
+#EXTINF:0, group-title="KOREA",ALL THE KPOP
+http://stream-03.nyc.dailymotion.com/45/dm/3/x4kzk1v/live-3.m3u8
