@@ -1,0 +1,14 @@
+#EXTM3U
+
+
+#EXTINF:0, group-title="TALALANTULATV",RCTI
+https://cdn-livetv1.metube.id/hls/rcti.m3u8
+
+#EXTINF:0, group-title="TALALANTULATV",GLOBALTV
+https://cdn-livetv1.metube.id/hls/globaltv.m3u8
+
+#EXTINF:0, group-title="TALALANTULATV",MMCTV
+https://cdn-livetv1.metube.id/hls/mnctv.m3u8
+
+#EXTINF:0, group-title="TALALANTULATV",TRANSTV
+https://cdn-livetv1.metube.id/hls/transtv.m3u8
