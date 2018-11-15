@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Radio - mtafm, Jakarta
+http://radio.mtafm.com:1079/stream/1/
+
 #EXTINF:-1,Radio - 101 Jak, Jakarta
 http://streaming.sim-indonesia.com:8000/jak
 
