@@ -1,0 +1,11 @@
+{
+	"id": "com.webos.app.aikimtv",
+	"title": "IKIM TV",
+	"vendor": "suaji",
+	"type": "web",
+	"version": "0.0.1",
+	"main": "index.html",
+	"icon": "icon.png",
+	"iconColor":"#E42E28",
+	"uiRevision": 2
+}
