@@ -1,0 +1,111 @@
+#EXTM3U
+
+#EXTINF:0, group-title="Indonesia",NET HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:0, group-title="Indonesia",BERITA SATU NEWS
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1, group-title="Indonesia",RodjaTV
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+#EXTINF:0, group-title="Indonesia",RCTI
+https://cdn-livetv1.metube.id/hls/rcti.m3u8
+#EXTINF:0, group-title="Indonesia",MNC TV
+https://cdn-livetv1.metube.id/hls/mnctv.m3u8
+#EXTINF:0, group-title="Indonesia",TVRI
+https://cdn-livetv1.metube.id/hls/tvri.m3u8
+#EXTINF:0, group-title="Indonesia",IDX Channel
+https://cdn-livetv1.metube.id/hls/idxchannel.m3u8
+#EXTINF:0, group-title="Indonesia",MNC NEWS
+https://cdn-livetv1.metube.id/hls/mncnews.m3u8
+#EXTINF:0, group-title="Indonesia",LIFE
+https://cdn-livetv2.metube.id/hls/life.m3u8
+#EXTINF:0, group-title="Indonesia",SCTV
+https://cdn-livetv2.metube.id/hls/sctv.m3u8
+#EXTINF:0, group-title="Indonesia",INDOSIAR
+https://cdn-livetv1.metube.id/hls/indosiar.m3u8
+#EXTINF:0, group-title="Indonesia",TRANSTV
+https://cdn-livetv1.metube.id/hls/transtv.m3u8
+#EXTINF:0, group-title="Indonesia",TRANS7
+https://cdn-livetv1.metube.id/hls/trans7.m3u8
+#EXTINF:0, group-title="Indonesia",METROTV
+https://cdn-livetv1.metube.id/hls/metrotv.m3u8
+#EXTINF:0, group-title="Indonesia",ANTV
+https://cdn-livetv1.metube.id/hls/antv.m3u8
+#EXTINF:0, group-title="Indonesia",TVONE
+https://cdn-livetv1.metube.id/hls/tvone.m3u8
+#EXTINF:0, group-title="Indonesia",KOMPAS TV
+https://cdn-livetv2.metube.id/hls/kompastv.m3u8
+#EXTINF:0, group-title="Indonesia",JAKTV
+https://cdn-livetv1.metube.id/hls/jaktv.m3u8
+#EXTINF:0, group-title="Indonesia",JTV
+https://cdn-livetv1.metube.id/hls/jtv.m3u8
+#EXTINF:0, group-title="Indonesia",RTV
+https://cdn-livetv2.metube.id/hls/rtv.m3u8
+#EXTINF:-1, group-title="Indonesia",Jakarta Globe
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1, group-title="Indonesia",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/40/TV1_Logo_2011.png/revision/latest?cb=20131101030840" group-title="Malaysia", TV1
+https://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/102_300.png/revision/latest?cb=20160501084045" group-title="Malaysia",TV2
+https://rtm-live.glueapi.io/smil:rtmch002/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5d/TV_Okey.png/revision/latest/scale-to-width-down/985?cb=20180622050405" group-title="Malaysia",OKEY
+https://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",BERNAMA TV
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",1NEWS
+https://rtm-live.glueapi.io/smil:rtmch006/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",TV IKIM
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTINF:-1 tv-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c2/Astro_logo_in_pink.png/revision/latest?cb=20150824165236" group-title="Malaysia",Astro Awani
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+#EXTINF:-1 tv-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c2/Astro_logo_in_pink.png/revision/latest?cb=20150824165236" group-title="Malaysia",Astro Arena
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+#EXTINF:-1 tv-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c2/Astro_logo_in_pink.png/revision/latest?cb=20150824165236" group-title="Malaysia",Astro GoShop
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS_03.m3u8
+
+#EXTINF:-1 tv-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/revision/latest?cb=20161028005656" group-title="Singapore",Channel News Asia
+https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Vst.png/revision/latest?cb=20160531151559" group-title="Singapore",Vasantham
+https://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Surialogo700x525_20130517103430.jpg/revision/latest?cb=20161026075708" group-title="Singapore",Suria
+https://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/CH_U_2015.png/revision/latest?cb=20160318131523" group-title="Singapore",Channel U
+https://ftachu.akamaized.net/out/v1/4d9907464ff048ce859219b22ed52599/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/Mediacorp_Channel_5_2015.jpg/revision/latest?cb=20150626065107" group-title="Singapore",Channel 5
+https://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index.m3u8
+https://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c4/Channel-8-data.jpg/revision/latest?cb=20170202190816" group-title="Singapore",Channel 8
+https://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/Okto_logo.jpg/revision/latest?cb=20170116165335" group-title="Singapore",Channel OKTO
+https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Diamond World",DIAMOND TV
+http://stream1.ninmedia.tv/live/nin-dtv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Diamond World",AVAVA DIAMOND
+http://wowza60.indostreamserver.com:1935/adti/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Diamond World",BLACK DIAMOND
+http://wowza60.indostreamserver.com:1935/bdti/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Diamond World",RED DIAMOND
+http://wowza60.indostreamserver.com:1935/red/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Diamond World",WHITE DIAMOND
+http://wowza60.indostreamserver.com:1935/white/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Diamond World",DIAMOND KIDS
+http://wowza60.indostreamserver.com:1935/kids/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Diamond World",DIAMOND EARTH
+http://wowza60.indostreamserver.com:1935/earth/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Diamond World",GOLD DIAMOND
+http://wowza60.indostreamserver.com:1935/gold/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Ninmedia",SALING SAPA
+http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ninmedia",INFO FREESAT
+http://stream1.ninmedia.tv/live/nin-info.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ninmedia",KLIK MUSIK
+http://stream1.ninmedia.tv/live/nin-klik-music.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ninmedia", SALURAN MUSIK INDONESIA
+http://stream1.ninmedia.tv/live/nin-smi.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ninmedia", SALURAN FILM INDONESIA
+http://stream1.ninmedia.tv/live/nin-sfi.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ninmedia",TV BMW
+http://stream1.ninmedia.tv/live/nin-dc7.stream_nin/playlist.m3u8
