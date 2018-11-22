@@ -1,1 +1,101 @@
-https://pastebin.com/raw/y0HLpxiy
+
+
+#EXTM3U
+#EXTINF:-1,Первый (RU)
+http://80.87.208.158:80/dna-65-tv-pc.m3u8
+#EXTINF:-1,GALAXY/4 (HU)
+http://80.87.208.158:80/dna-66-tv-pc.m3u8
+#EXTINF:-1,MTV HITS
+http://80.87.208.158:80/dna-67-tv-pc.m3u8
+#EXTINF:-1,MTV DANCE
+http://80.87.208.158:80/dna-68-tv-pc.m3u8
+#EXTINF:-1,VH 1
+http://80.87.208.158:80/dna-71-tv-pc.m3u8
+#EXTINF:-1,VH 1 CLASSIC
+http://80.87.208.158:80/dna-69-tv-pc.m3u8
+#EXTINF:-1,MTV
+http://80.87.208.158:80/dna-70-tv-pc.m3u8
+#EXTINF:-1,ZDF (DE)
+http://80.87.208.158:80/dna-78-tv-pc.m3u8
+#EXTINF:-1,SAT 1 (DE)
+http://80.87.208.158:80/dna-79-tv-pc.m3u8
+#EXTINF:-1,NEWS (DE)
+http://80.87.208.158:80/dna-80-tv-pc.m3u8
+#EXTINF:-1,WELT (DE)
+http://80.87.208.158:80/dna-81-tv-pc.m3u8
+#EXTINF:-1,JIXX (DE)
+http://80.87.208.158:80/dna-82-tv-pc.m3u8
+#EXTINF:-1,RTL (DE)
+http://80.87.208.158:80/dna-83-tv-pc.m3u8
+#EXTINF:-1,RTL 2 (DE)
+http://80.87.208.158:80/dna-84-tv-pc.m3u8
+#EXTINF:-1,TOGGO (DE)
+http://80.87.208.158:80/dna-85-tv-pc.m3u8
+#EXTINF:-1,VOX (DE)
+http://80.87.208.158:80/dna-86-tv-pc.m3u8
+#EXTINF:-1,SPORT5 FHD (CZ)
+http://80.87.208.158:80/dna-89-tv-pc.m3u8
+#EXTINF:-1,HUSTLER TV
+http://80.87.208.158:80/dna-91-tv-pc.m3u8
+#EXTINF:-1,RUSSIAN MUSICBOX (RU)
+http://80.87.208.158:80/dna-96-tv-pc.m3u8
+#EXTINF:-1,DW
+http://80.87.208.158:80/dna-97-tv-pc.m3u8
+#EXTINF:-1,TV5 MONDE (FR)
+http://80.87.208.158:80/dna-98-tv-pc.m3u8
+#EXTINF:-1,MTV ROCKS
+http://80.87.208.158:80/dna-99-tv-pc.m3u8
+#EXTINF:-1,CNL
+http://80.87.208.158:80/dna-116-tv-pc.m3u8
+#EXTINF:-1,FILM BOX EXTRA FHD (CZ)
+http://80.87.208.158:80/dna-119-tv-pc.m3u8
+#EXTINF:-1,EX
+http://80.87.208.158:80/dna-130-tv-pc.m3u8
+#EXTINF:-1,SKY NEWS
+http://80.87.208.158:80/dna-132-tv-pc.m3u8
+#EXTINF:-1,CNN
+http://80.87.208.158:80/dna-133-tv-pc.m3u8
+#EXTINF:-1,BOOMERANG
+http://80.87.208.158:80/dna-143-tv-pc.m3u8
+#EXTINF:-1,HBO HD (CZ)
+http://80.87.208.158:80/dna-151-tv-pc.m3u8
+#EXTINF:-1,CN
+http://80.87.208.158:80/dna-154-tv-pc.m3u8
+#EXTINF:-1,RAI 1 (IT)
+http://80.87.208.158:80/dna-163-tv-pc.m3u8
+#EXTINF:-1,RAI 2 (IT)
+http://80.87.208.158:80/dna-164-tv-pc.m3u8
+#EXTINF:-1,RAI 3 (IT)
+http://80.87.208.158:80/dna-165-tv-pc.m3u8
+#EXTINF:-1,RAI NEWS 24 (IT)
+http://80.87.208.158:80/dna-168-tv-pc.m3u8
+#EXTINF:-1,FightBox HD
+http://80.87.208.158:80/dna-4571-tv-pc.m3u8
+#EXTINF:-1,FashionBox HD
+http://80.87.208.158:80/dna-4591-tv-pc.m3u8
+#EXTINF:-1,DocuBox HD
+http://80.87.208.158:80/dna-4611-tv-pc.m3u8
+#EXTINF:-1,ALJaz HD
+http://80.87.208.158:80/dna-5169-tv-pc.m3u8
+#EXTINF:-1,N/A
+http://80.87.208.158:80/dna-5269-tv-pc.m3u8
+#EXTINF:-1,Rebel
+http://80.87.208.158:80/dna-5306-tv-pc.m3u8
+#EXTINF:-1,Severka TV
+http://80.87.208.158:80/dna-5468-tv-pc.m3u8
+#EXTINF:-1,RTV
+http://80.87.208.158:80/dna-2822-tv-pc.m3u8
+#EXTINF:-1,TV Raj HD
+http://80.87.208.158:80/dna-2827-tv-pc.m3u8
+#EXTINF:-1,OutDoor HD
+http://80.87.208.158:80/dna-2833-tv-pc.m3u8
+#EXTINF:-1,TVX HD
+http://80.87.208.158:80/dna-3586-tv-pc.m3u8
+#EXTINF:-1,RTL
+http://80.87.208.158:80/dna-4004-tv-pc.m3u8
+#EXTINF:-1,TVP Historia
+http://80.87.208.158:80/dna-4747-tv-pc.m3u8
+#EXTINF:-1,Radio 1
+http://80.87.208.158:80/dna-4749-tv-pc.m3u8
+#EXTINF:-1,relax
+http://80.87.208.158:80/dna-4912-tv-pc.m3u8
