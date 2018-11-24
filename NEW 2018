@@ -1,0 +1,433 @@
+#EXTM3U
+#EXTINF:0,(ID) RCTI SD
+https://cdn-livetv2.metube.id/hls/rcti.m3u8
+#EXTINF:0,(ID) RCTI HD
+https://edge.okezone.com/live/rctioke.m3u8
+#EXTINF:0,(ID) GTV SD
+https://cdn-livetv2.metube.id/hls/globaltv.m3u8
+#EXTINF:0,(ID) GTV HD
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
+#EXTINF:0,(ID) MNC TV SD
+https://cdn-livetv2.metube.id/hls/mnctv.m3u8
+#EXTINF:0,(ID) MNC TV HD
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
+#EXTINF:0,(ID) iNews SD
+https://cdn-livetv2.metube.id/hls/inewstv.m3u8
+#EXTINF:0,(ID) iNews HD
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511541532132975/1024.m3u8
+#EXTINF:0,(ID) IDX CHANNEL
+https://cdn-livetv1.metube.id/hls/idxchannel.m3u8
+#EXTINF:0,(ID) MNC SHOP CH.79
+https://cdn-livetv1.metube.id/hls/mncshop79.m3u8
+#EXTINF:0,(ID) MNC SHOP CH.88
+https://cdn-livetv1.metube.id/hls/mncshop.m3u8
+#EXTINF:0,(ID) MNC NEWS
+https://cdn-livetv1.metube.id/hls/mncnews.m3u8
+#EXTINF:0,(ID) SCTV HD 1
+http://202.80.222.6/mnt/tmpfs/hls/001/001/ch15010918464887721048/1024.m3u8
+#EXTINF:0,(ID) SCTV SD
+https://cdn-livetv1.metube.id/hls/sctv.m3u8
+#EXTINF:0,(ID) SCTV HD 2
+http://rr2.dens.tv/s/s03/index1.m3u8
+#EXTINF:0,(ID) INDOSIAR HD 1
+http://202.80.222.6/mnt/tmpfs/hls/001/001/ch15051810235326945512/1024.m3u8
+#EXTINF:0,(ID) INDOSIAR SD
+https://cdn-livetv1.metube.id/hls/indosiar.m3u8
+#EXTINF:0,(ID) INDOSIAR HD 2
+http://rr2.dens.tv/s/s04/index1.m3u8
+#EXTINF:0,(ID) SCTV (FOOTBALL MATCH ONLY)
+https://kmklive-lh.akamaihd.net/i/sctv_geo@94479/master.m3u8
+#EXTINF:0,(ID) INDOSIAR (GOJEK LIGA 1 ONLY)
+https://kmklive-lh.akamaihd.net/i/indosiar_geo_my_sg@94479/master.m3u8
+#EXTINF:0,(ID) O CHANNEL (GOJEK LIGA 1 ONLY)
+https://kmklive-lh.akamaihd.net/i/ochannel_geo_my_sg@94478/master.m3u8
+#EXTINF:0,(ID) O CHANNEL
+https://kmklive-lh.akamaihd.net/i/ochannel_live@94478/master.m3u8
+#EXTINF:0,(ID) O SHOP
+https://kmklive-lh.akamaihd.net/i/oshop_live@586951/master.m3u8
+#EXTINF:0,(ID) TRANS TV HD 1
+http://202.80.222.6/mnt/tmpfs/hls/001/001/ch14041511552652254306/1024.m3u8
+#EXTINF:0,(ID) TRANS TV SD
+https://cdn-livetv1.metube.id/hls/transtv.m3u8
+#EXTINF:0,(ID) TRANS TV HD 2
+http://rr2.dens.tv/s/s05/index1.m3u8
+#EXTINF:0,(ID) TRANS TV HD 3
+http://dmlive.vo.llnwd.net/34/dm/3/x4nwi47/live-3.m3u8
+#EXTINF:0,(ID) TRANS 7 HD 1
+https://wowzaprodhd37-lh.akamaihd.net/i/79a12936_1@443509/master.m3u8
+#EXTINF:0,(ID) TRANS 7 HD 2
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511545447343123/1024.m3u8
+#EXTINF:0,(ID) TRANS 7 SD
+https://cdn-livetv1.metube.id/hls/trans7.m3u8
+#EXTINF:0,(ID) TRANS 7 HD 3
+http://rr2.dens.tv/s/s06/index1.m3u8
+#EXTINF:0,(ID) CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:0,(ID) KOMPAS TV SD
+http://cdn-livetv2.metube.id/hls/kompastv.m3u8
+#EXTINF:0,(ID) KOMPAS TV HD 1
+http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
+#EXTINF:0,(ID) KOMPAS TV HD 2
+http://rr2.dens.tv/s/s09/index1.m3u8
+#EXTINF:0,(ID) METRO TV HD 1
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+#EXTINF:0,(ID) METRO TV HD 2
+http://210.210.155.35/qwr9ew/s/s49/index1.m3u8
+#EXTINF:0,(ID) METRO TV SD
+https://cdn-livetv1.metube.id/hls/metrotv.m3u8
+#EXTINF:0,(ID) METRO TV HD 3
+http://rr.dens.tv/h/h05/index1.m3u8
+#EXTINF:0,(ID) JAWAPOSTV
+http://122.248.32.234:1935/ch6/myStream/live.m3u8
+#EXTINF:0,(ID) BERITA SATU NEWS CHANNEL 
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:0,(ID) BERITA SATU WORLD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+#EXTINF:0,(ID) JAKARTA GLOBE NEWS CHANNEL
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:0,(ID) TVR PARLEMEN
+http://103.16.220.69:1935/golive/livestream/playlist.m3u8
+#EXTINF:0,(ID) TVONE HD 1
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215030555428637/1024.m3u8
+#EXTINF:0,(ID) TVONE SD
+https://cdn-livetv1.metube.id/hls/tvone.m3u8
+#EXTINF:0,(ID) TVONE HD 2
+http://rr2.dens.tv/s/s02/index1.m3u8
+#EXTINF:0,(ID) ANTV HD 1
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+#EXTINF:0,(ID) ANTV SD
+https://cdn-livetv1.metube.id/hls/antv.m3u8
+#EXTINF:0,(ID) ANTV HD 2
+http://rr2.dens.tv/s/s07/index1.m3u8
+#EXTINF:0,(ID) NET. SD
+http://rr2.dens.tv/s/s08/index1.m3u8
+#EXTINF:0,(ID) NET. HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-
+southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:0,(ID) RTV HD
+http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
+#EXTINF:0,(ID) RTV SD
+http://rr2.dens.tv/s/s12/index1.m3u8
+#EXTINF:0,(ID) INSPIRA TV
+http://stream1.ninmedia.tv/live/nin-inspira.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) NUSANTARA TV
+http://103.77.106.171:1935/live/liventv1/playlist.m3u8
+#EXTINF:0,(ID) ELSHINTA TV
+http://stream.elshintatv.co.id/hls/ETV/index.m3u8
+#EXTINF:0,(ID) IN TV
+http://flash1.broadcastindo.net/bantentv/stream.sdp/playlist.m3u8
+#EXTINF:0,(ID) DAAI TV
+http://indonesia.demo.swiftserve.com/rentas/daaitv_manifest.m3u8
+#EXTINF:0,(ID) TVRI NASIONAL
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+#EXTINF:0,(ID) TVRI BUDAYA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+#EXTINF:0,(ID) TVRI OLAHRAGA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:0,(ID) TVRI ACEH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
+#EXTINF:0,(ID) TVRI SUMATERA UTARA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumutmedan)/index.m3u8
+#EXTINF:0,(ID) TVRI SUMATERA BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumbarpadang)/index.m3u8
+#EXTINF:0,(ID) TVRI SUMATERA SELATAN
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumsel)/index.m3u8
+#EXTINF:0,(ID) TVRI RIAU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRiau)/index.m3u8
+#EXTINF:0,(ID) TVRI JAMBI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJambi)/index.m3u8
+#EXTINF:0,(ID) TVRI BANGKA BELITUNG
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBabel)/index.m3u8
+#EXTINF:0,(ID) TVRI BENGKULU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBengkulu)/index.m3u8
+#EXTINF:0,(ID) TVRI LAMPUNG
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILampung)/index.m3u8
+#EXTINF:0,(ID) TVRI DKI JAKARTA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDki)/index.m3u8
+#EXTINF:0,(ID) TVRI JAWA BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJabarbandung)/index.m3u8
+#EXTINF:0,(ID) TVRI JAWA TENGAH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
+#EXTINF:0,(ID) TVRI JAWA TIMUR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatimsurabaya)/index.m3u8
+#EXTINF:0,(ID) TVRI YOGYAKARTA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
+#EXTINF:0,(ID) TVRI BALI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
+#EXTINF:0,(ID) TVRI NUSA TENGGARA BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
+#EXTINF:0,(ID) TVRI NUSA TENGGARA TIMUR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
+#EXTINF:0,(ID) TVRI KALIMANTAN BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8
+#EXTINF:0,(ID) TVRI KALIMANTAN TENGAH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
+#EXTINF:0,(ID) TVRI KALIMANTAN TIMUR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8
+#EXTINF:0,(ID) TVRI KALIMANTAN SELATAN
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
+#EXTINF:0,(ID) TVRI SULAWESI SELATAN
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8
+#EXTINF:0,(ID) TVRI SULAWESI BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulbarmajene)/index.m3u8
+#EXTINF:0,(ID) TVRI SULAWESI TENGGARA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultra)/index.m3u8
+#EXTINF:0,(ID) TVRI SULAWESI TENGAH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8
+#EXTINF:0,(ID) TVRI SULAWESI UTARA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulutmanado)/index.m3u8
+#EXTINF:0,(ID) TVRI GORONTALO
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8
+#EXTINF:0,(ID) TVRI MALUKU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
+#EXTINF:0,(ID) TVRI PAPUA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
+#EXTINF:0,(ID) JAKTV
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0,(ID) JTV SURABAYA
+http://122.248.32.234:1935/ch2/myStream/live.m3u8
+#EXTINF:0,(ID) JPM STREAM
+http://122.248.32.234:1935/ch1/myStream/live.m3u8
+#EXTINF:0,(ID) SBO TV SURABAYA
+http://122.248.32.234:1935/ch13/myStream/live.m3u8
+#EXTINF:0,(ID) KAWANUA TV MANADO
+http://122.248.32.234:1935/ch18/myStream/live.m3u8
+#EXTINF:0,(ID) STV SAMARINDA
+http://122.248.32.234:1935/ch19/myStream/live.m3u8
+#EXTINF:0,(ID) BTV BALIKPAPAN
+http://122.248.32.234:1935/ch10/myStream/live.m3u8
+#EXTINF:0,(ID) CITRA TV LAMONGAN
+http://122.248.32.234:1935/ch30/myStream/live.m3u8
+#EXTINF:0,(ID) RADAR TV TASIKMALAYA
+http://122.248.32.234:1935/ch24/myStream/live.m3u8
+#EXTINF:0,(ID) JEK TV JAMBI
+http://122.248.32.234:1935/ch14/myStream/live.m3u8
+#EXTINF:0,(ID) JAMBI TV
+http://122.248.32.234:1935/ch23/myStream/live.m3u8
+#EXTINF:0,(ID) PON TV PONTIANAK
+http://122.248.32.234:1935/ch15/myStream/live.m3u8
+#EXTINF:0,(ID) PAL TV PALEMBANG
+http://122.248.32.234:1935/ch7/myStream/live.m3u8
+#EXTINF:0,(ID) SIMPANG5 TV PATI
+http://122.248.32.234:1935/ch20/myStream/live.m3u8
+#EXTINF:0,(ID) BATAM TV
+http://122.248.32.234:1935/ch5/myStream/live.m3u8
+#EXTINF:0,(ID) KARIMUN TV
+http://122.248.32.234:1935/ch29/myStream/live.m3u8
+#EXTINF:0,(ID) TV TPI TJ.PINANG
+http://122.248.32.234:1935/ch28/myStream/live.m3u8
+#EXTINF:0,(ID) RADAR TV PALU
+http://122.248.32.234:1935/ch25/myStream/live.m3u8
+#EXTINF:0,(ID) RADAR TV LAMPUNG
+http://122.248.32.234:1935/ch17/myStream/live.m3u8
+#EXTINF:0,(ID) LOMBOK POST TV
+http://122.248.32.234:1935/ch21/myStream/live.m3u8
+#EXTINF:0,(ID) RIAU TV
+http://122.248.32.234:1935/ch4/myStream/live.m3u8
+#EXTINF:0,(ID) BETV BENGKULU
+http://122.248.32.234:1935/ch26/myStream/live.m3u8
+#EXTINF:0,(ID) RBTV BENGKULU
+http://122.248.32.234:1935/ch12/myStream/live.m3u8
+#EXTINF:0,(ID) PADANG TV
+http://122.248.32.234:1935/ch16/myStream/live.m3u8
+#EXTINF:0,(ID) SKTV
+http://122.248.32.234:1935/ch3/myStream/live.m3u8
+#EXTINF:0,(ID) PURWOREJO TV
+http://122.248.32.234:1935/ch11/myStream/live.m3u8
+#EXTINF:0,(ID) BARAYA TV BANTEN
+http://122.248.32.234:1935/ch12/myStream/live.m3u8
+#EXTINF:0,(ID) RCTV CIREBON
+http://122.248.32.234:1935/ch9/myStream/live.m3u8
+#EXTINF:0,(ID) FAJAR TV MAKASSAR
+http://122.248.32.234:1935/ch27/myStream/live.m3u8
+#EXTINF:0,(ID) NIRWANA TV BALI
+http://122.248.32.234:1935/ch8/myStream/live.m3u8
+#EXTINF:0,(ID) ICTA TV
+http://ictatv.onlivestreaming.net/ictatv/livestream/playlist.m3u8
+#EXTINF:0,(ID) JOGJA TV
+rtmp://202.169.224.206/live/jogjatv
+#EXTINF:0,(ID) BBS TV SURABAYA
+http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+#EXTINF:0,(ID) ADI TV YOGYAKARTA
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:0,(ID) CTV BANTEN
+rtmp://103.23.201.170/live//livestream
+#EXTINF:0,(ID) TATV SOLO
+http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
+#EXTINF:0,(ID) INFO FREESAT
+http://stream1.ninmedia.tv/live/nin-info.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) MALEO CHANNEL
+http://stream1.ninmedia.tv/live/nin-bmw.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) KLIK MUSIK
+http://stream1.ninmedia.tv/live/nin-klik-music.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) SALURAN MUSIK INDONESIA
+http://stream1.ninmedia.tv/live/nin-smi.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) SALURAN FILM INDONESIA
+http://stream1.ninmedia.tv/live/nin-sfi.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) TV BMW
+http://stream1.ninmedia.tv/live/nin-dc7.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) FAKTA TV
+http://stream1.ninmedia.tv/live/nin-9net.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) NU CHANNEL
+http://stream1.ninmedia.tv/live/nin-nuchannel.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) DMI CHANNEL
+http://stream1.ninmedia.tv/live/nin-dmi.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) TV TABALONG
+http://stream1.ninmedia.tv/live/nin-tabalong.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) KITANESIA
+http://stream1.ninmedia.tv/live/nin-ladies.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) DUTA TV BANJARMASIN
+video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
+#EXTINF:0,(ID) SALING SAPA
+http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) DIAMOND TV
+http://stream1.ninmedia.tv/live/nin-dtv.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) AVAVA BOLLYWOOD
+http://wowza60.indostreamserver.com:1935/abc/live/playlist.m3u8
+#EXTINF:0,(ID) AVAVA DIAMOND
+http://wowza60.indostreamserver.com:1935/adti/live/playlist.m3u8
+#EXTINF:0,(ID) BLACK DIAMOND
+http://wowza60.indostreamserver.com:1935/bdti/live/playlist.m3u8
+#EXTINF:0,(ID) RED DIAMOND
+http://wowza60.indostreamserver.com:1935/red/live/playlist.m3u8
+#EXTINF:0,(ID) WHITE DIAMOND
+http://wowza60.indostreamserver.com:1935/white/live/playlist.m3u8
+#EXTINF:0,(ID) DIAMOND KIDS
+http://wowza60.indostreamserver.com:1935/kids/live/playlist.m3u8
+#EXTINF:0,(ID) DIAMOND EARTH
+http://wowza60.indostreamserver.com:1935/earth/live/playlist.m3u8
+#EXTINF:0,(ID) GOLD DIAMOND
+http://wowza60.indostreamserver.com:1935/gold/live/playlist.m3u8
+#EXTINF:0,(ID) SPACETOON
+https://kmklive-lh.akamaihd.net/i/spacetoon_geo@586951/master.m3u8
+#EXTINF:0,(ID) AKHYAR TV
+stream.asianastream.com:1935/live/ngrp:akhyartv_all/chunk.m3u8
+#EXTINF:0,(ID) SN TV
+http://svr.sntivi.id:1935/live/sntv/chunk.m3u8
+#EXTINF:0,(ID) MADANI TV
+stream.asianastream.com:1935/live/ngrp:madanitv_all/chunk.m3u8
+#EXTINF:0,(ID) TV9 NUSANTARA
+rtmp://videostream.indostreamserver.com:1935/tv9/live
+#EXTINF:0,(ID) WESAL TV
+rtmp://119.235.249.60:1935/wesaltv/live
+#EXTINF:0,(ID) INSAN TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+#EXTINF:0,(ID) AHSAN TV
+rtmp://119.82.224.75:1935/live/ahsantv
+#EXTINF:0,(ID) ASWAJA TV
+http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
+#EXTINF:0,(ID) RODJA TV
+http://rr2.dens.tv/s/s14/index1.m3u8
+#EXTINF:0,(ID) TAHFIDZ TV
+rtmp://119.235.249.58:1935/tahfidztv/live
+#EXTINF:0,(ID) TV MU
+rtmp://118.97.183.222:1935/discover/muhammadiyahtv
+#EXTINF:0,(ID) SURAU TV
+http://wowza60.indostreamserver.com:1935/surautv/live/playlist.m3u8
+#EXTINF:0,(ID) HIDAYAH
+https://cdn-livetv1.metube.id/hls/mncmuslim.m3u8
+#EXTINF:0,(ID) LIFE (ROHANI KRISTEN)
+https://cdn-livetv1.metube.id/hls/life.m3u8
+#EXTINF:0,(ID) U CHANNEL (ROHANI KRISTEN)
+http://rr2.dens.tv/s/s41/index1.m3u8
+#EXTINF:0,(ID) REFORMED 21 (ROHANI KRISTEN)
+http://edge.linknetott.swiftserve.com/live/ BsNew/amlst:reformedch/playlist.m3u8
+#EXTINF:0,(ID) TV DESA
+http://wowza60.indostreamserver.com:1935/tvdesa/live/playlist.m3u8
+#EXTINF:0,(ID) THE INDONESIA CHANNEL
+http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/playlist.m3u8
+#EXTINF:0,(ID) ANTARA TV
+http://edge.telin.swiftserve.com/live/LiveOONA/antara-
+da5a865f3284/playlist.m3u8
+#EXTINF:0,(ID) BALI TV
+http://edge.telin.swiftserve.com/live/LiveOONA/balitv-
+0e3e49d9f128/chunklist.m3u8
+#EXTINF:0,(ID) THE START UP CHANNEL
+http://edge.telin.swiftserve.com/live/LiveOONA/startup-
+93db06bd3f82/playlist.m3u8
+#EXTINF:0,(ID) AL AZIZIAH TRAVEL TV
+http://119.235.249.58:1935/alaziziahtraveltv/live/playlist.m3u8
+#EXTINF:0,(ID) NADA MUSLIM TV
+http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
+#EXTINF:0,(ID) EFARINA TV
+http://43.240.226.40:1935/AppLiveEfarinaTV/efarinatv_360p/index.m3u8
+#EXTINF:0,(ID) PAYTREN TV
+http://wowza58.indostreamserver.com:1935/ymtv/live/playlist.m3u8
+#EXTINF:0,(ID) RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",Fox Sport 1
+http://210.210.155.35/uq2663/h/h19/index1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",Fox Sport 2
+http://210.210.155.35/uq2663/h/h20/index1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",Fox Sport 3
+http://210.210.155.35/uq2663/h/h21/index1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",beIN Sport 1
+http://flussonic2.cdniptv.com:8080/bein1hd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",beIN Sport 2
+http://flussonic2.cdniptv.com:8080/bein2hd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",beIN Sport 3
+http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",NBA TV
+http://103.77.116.191:443/nba_tv_hd_480p.stream/playlist.m3u8?st=Um9MejErIJi0MZ0iPCISvA&username=5148&password=95cd9062c4876c1d20ca&e=1505910496
+#EXTINF:-1 tvg-logo="" group-title="Sport",Sky Sport Premiere League
+http://103.77.116.191:443/sky_sports_premiere_360p.stream/playlist.m3u8?st=GKfpk14UPTPLRtMcLf-0UQ&username=5148&password=87a65335059d88bb0c40&e=1505911381
+#EXTINF:-1 tvg-logo="" group-title="Sport",Sky Sport Formula 1
+http://103.77.116.191:443/kysportf1_360p.stream/playlist.m3u8?st=LPqRrcuxTEoHeP1epes5TQ&username=5148&password=e1ec7522c461b60bc76a&e=1505911653
+#EXTINF:-1 tvg-logo="" group-title="Sport",Premiere League 
+http://103.77.116.191:443/prtv_1_720p.stream/playlist.m3u8?st=idV1QS5BLtTEwDVV_zZELA&username=5148&password=9b45948d1f96147a3c07&e=1505911842
+#EXTINF:-1 tvg-logo="" group-title="Sport",Premiere League 2
+http://103.77.116.191:443/prtv_2_720p.stream/playlist.m3u8?st=idV1QS5BLtTEwDVV_zZELA&username=5148&password=9b45948d1f96147a3c07&e=1505911842
+#EXTINF:-1 tvg-logo="" group-title="Sport",Premiere League 3
+http://103.77.116.191:443/prtv_3_720p.stream/playlist.m3u8?st=idV1QS5BLtTEwDVV_zZELA&username=5148&password=9b45948d1f96147a3c07&e=1505911842
+#EXTINF:-1 tvg-logo="" group-title="Sport",Golf Channel
+http://103.77.116.191:443/golf_channel_thailand_hd_720p.stream/playlist.m3u8?st=nMor2cQp_zrE9Y_w0WHaZw&username=5148&password=d1fa8e13c15496cd87a7&e=1505911950
+#EXTINF:-1 tvg-logo="" group-title="Sport",Eurosport
+http://103.77.116.191:443/eurosport_480p.stream/playlist.m3u8?st=juzhVjLVlMk4LikZE0WHJw&username=5148&password=8617694c070dc06d5bc7&e=1505912435
+#EXTINF:-1 tvg-logo="" group-title="Sport",Real Madrid Channel
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?tecnotv.info?iptv.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="" group-title="Sport",La Liga
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documenter",National Geographic
+http://210.210.155.35/uq2663/h/h11/index1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documenter",Nat Geo Wild
+http://210.210.155.35/uq2663/h/h12/index1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documenter",Discovery Channel
+http://165.227.180.24/discoverychannelhd/tracks-v1a1/index.m3u8?pxAuth=s4hJA9YaQhz4lYZOSvJTrpRTsza4tCYW
+#EXTINF:-1 tvg-logo="" group-title="Movie",Fox
+http://210.210.155.35/uq2663/h/h04/index1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movie",Fox Movies
+http://210.210.155.35/uq2663/h/h14/index1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movie",Fox Action Movies
+http://210.210.155.35/uq2663/h/h15/index1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movie",Fox Family Movies
+http://210.210.155.35/uq2663/h/h16/index1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movie",Fox Life
+http://210.210.155.35/uq2663/h/h03/index1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movie",AXN
+http://210.210.155.35/uq2663/h/h09/index1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movie",SONY Channel
+http://210.210.155.35/uq2663/h/h06/index1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movie",KIX
+http://210.210.155.35/uq2663/h/h07/index1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movie",Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/index1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movie",Thrill
+http://210.210.155.35/qwr9ew/s/s34/index1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movie",Animax
+http://210.210.155.35/uq2663/h/h18/index1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movie",Disney 
+http://191.96.38.49:443/free/00_disney_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movie",Aniplus
+http://rr.dens.tv/h/h02/index1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Da Vinci
+http://rr.dens.tv/h/h01/index1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Korea",S-ONE
+http://210.210.155.35/uq2663/h/h13/index1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Korea",K+
+http://210.210.155.35/uq2663/h/h08/index1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Korea",SBS in
+http://210.210.155.35/uq2663/h/h28/index1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="International",Dubai One
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="International",NHK World
+http://rr.dens.tv/h/h23/index1.m3u8
